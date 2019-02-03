@@ -16,7 +16,7 @@ public enum GameMod {
 	DOUBLE_TIME(64, "Double Time", "DT"),
 	RELAX(128, "Relax", "RX"),
 	HALF_TIME(256, "Half Time", "HT"),
-	NIGHTCORE(512, "Nightcore", "HC"),
+	NIGHTCORE(512, "Nightcore", "NC"),
 	FLASHLIGHT(1024, "Flashlight", "FL"),
 	AUTOPLAY(2048, "Autoplay", "AP"),
 	SPUNOUT(4096, "Spunout", "SO"),
